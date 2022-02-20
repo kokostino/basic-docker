@@ -1,3 +1,5 @@
+[![Python application test](https://github.com/kokostino/basic-docker/actions/workflows/main.yml/badge.svg)](https://github.com/kokostino/basic-docker/actions/workflows/main.yml)
+
 # basic-docker
 
 docker pull noahgift/cloudapp:latest
